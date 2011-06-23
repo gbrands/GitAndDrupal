@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Grid Frontpage feature.
+ */
+
+include_once('grid_frontpage.features.inc');
